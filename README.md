@@ -43,10 +43,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&theme=github_dark&bg_color=00000000&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&theme=default&bg_color=00000000&title_color=0284C7&icon_color=7C3AED&text_color=475569" alt="GitHub 统计">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wmyskxz&layout=compact&hide_border=true&langs_count=6&hide=html%2Ccss%2Cscss&locale=cn&theme=github_dark&bg_color=00000000&title_color=38BDF8&text_color=94A3B8">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmyskxz&layout=compact&hide_border=true&langs_count=6&hide=html%2Ccss%2Cscss&locale=cn&theme=default&bg_color=00000000&title_color=0284C7&text_color=475569" alt="常用语言">
-  </picture>
 </p>
 
 ## 找到我

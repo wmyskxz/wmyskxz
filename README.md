@@ -20,7 +20,7 @@
 - 🧠 正在研究的方向：AI、心理学、编程与认知科学
 - ✍️ 持续更新：[代码之外周刊](https://wmyskxz.cn/wiki/weekly/)（已更新 190+ 期）
 
-**常用技术**：`Python` · `AI` · `Java` · `Node.js` · `Hexo`
+**常用技术**：`Python` · `AI` · `Claude Code` · `DeepSeek` · `Java`（久未谋面）· `Hexo`（负责门面）
 
 ## 精选项目
 

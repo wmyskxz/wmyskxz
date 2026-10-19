@@ -40,8 +40,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&theme=github_dark&bg_color=00000000&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&theme=default&bg_color=00000000&title_color=0284C7&icon_color=7C3AED&text_color=475569" alt="GitHub 统计">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&custom_title=GitHub%20%E6%A6%82%E8%A7%88&theme=github_dark&bg_color=00000000&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=wmyskxz&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&locale=cn&custom_title=GitHub%20%E6%A6%82%E8%A7%88&theme=default&bg_color=00000000&title_color=0284C7&icon_color=7C3AED&text_color=475569" alt="GitHub 统计">
   </picture>
 </p>
 
